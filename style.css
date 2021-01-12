@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.luckygame{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.lucky-number{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #ccf8c1;
+}
+.zz{
+    padding: 20px;
+    background-color: #70eb99;
+}
